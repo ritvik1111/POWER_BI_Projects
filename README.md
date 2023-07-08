@@ -1,0 +1,1 @@
+In this project I have analyzed data regarding attrition of employees form a company and presented it into a dashboard using Power BI, thus pointing out the main reasons of attrition of employees using different KPI's.# POWER_BI_Projects
